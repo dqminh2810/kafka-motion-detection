@@ -1,2 +1,2 @@
 numpy==1.21.5
-kafk-python==2.2.0
+kafka-python==2.2.0
